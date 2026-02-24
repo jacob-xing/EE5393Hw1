@@ -1,0 +1,4 @@
+--- Discrete Model (Stochastic) ---
+Estimated Pr(C1) [X1 >= 150]: 0.0000  (0/1000 runs)
+Estimated Pr(C2) [X2 < 10]:   0.0000  (0/1000 runs)
+Estimated Pr(C3) [X3 > 100]:  1.0000  (1000/1000 runs)

@@ -1,0 +1,14 @@
+--- Monte Carlo Estimates ---
+Initial State: S = [9, 8, 7]
+
+Molecule X1:
+  Mean:     5.8608
+  Variance: 5.8662
+
+Molecule X2:
+  Mean:     12.4976
+  Variance: 8.7460
+
+Molecule X3:
+  Mean:     7.7706
+  Variance: 8.7516
