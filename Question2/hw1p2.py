@@ -313,8 +313,6 @@ stealth_probs = []
 hijack_probs = []
 runs_per_moi = 100 
 
-print(f"Running simulation for MOI 1 to 10 ({runs_per_moi} trials each)...")
-print("This might take a minute depending on your computer's speed.")
 
 for moi in moi_values:
     outcomes = {'Stealth': 0, 'Hijack': 0, 'Undecided': 0}
